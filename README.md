@@ -1,5 +1,4 @@
 
-Autotest for 'Article verification'
 Install
 =======
     Install python 3.x
