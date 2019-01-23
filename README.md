@@ -1,5 +1,5 @@
 
-Autotest for 'Article verification' at https://www.gobankingrates.com
+Autotest for 'Article verification'
 Install
 =======
     Install python 3.x
