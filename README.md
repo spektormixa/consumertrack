@@ -1,3 +1,4 @@
+
 Autotest for 'Article verification' at https://www.gobankingrates.com
 Install
 =======
