@@ -13,7 +13,7 @@ Install
 
 Usage
 =====
- - git clone https://github.com/spektormixa/stanza_test.git
+ - git clone https://github.com/spektormixa/consumertrack.git
  - cd stanza_test
  - pytest
  
